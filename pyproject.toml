@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "address-book"
+version = "0.1.0"
+description = "Personal Address Book. Python console team project - 'dream_9_bot'"
+authors = ["Serg <https://github.com/CodeCraftSerg>", "Olha <https://github.com/Helga735>", "chAek <https://github.com/aektann89>", "Andrewchv <https://github.com/Andrewchv>", "Aryna Reutska <https://github.com/xrendezvous>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+black = "^24.2.0"
+rich = "^13.7.1"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
