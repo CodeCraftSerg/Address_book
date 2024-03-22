@@ -1,6 +1,7 @@
 # dream_9_bot
 
 Персональна книга контактів dream_9_bot
+![page](dream_9_bot.jpg)
 
 ## Огляд
 
