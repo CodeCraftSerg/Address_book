@@ -93,5 +93,5 @@
 * Developer: [chAek](https://github.com/aektann89)
 * Developer: [Andrew](https://github.com/Andrewchv)
 * Developer: [Aryna Reutska](https://github.com/xrendezvous)
-* Scrum Muster + Developer: [Olha](https://github.com/HelgaTsar)
+* Scrum Master + Developer: [Olha](https://github.com/HelgaTsar)
 * Team Lead + Repository Owner + Developer: [Serg](https://github.com/CodeCraftSerg) (ex [Obi-Wan-Serg](https://github.com/Obi-Wan-Serg))
